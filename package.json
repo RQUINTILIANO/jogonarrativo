@@ -1,0 +1,24 @@
+{
+  "name": "jogonarrativo",
+  "version": "1.0.0",
+  "description": "Jogo de narrativa usando IA",
+  "homepage": "https://github.com/RQUINTILIANO/jogonarrativo#readme",
+  "bugs": {
+    "url": "https://github.com/RQUINTILIANO/jogonarrativo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RQUINTILIANO/jogonarrativo.git"
+  },
+  "license": "MIT",
+  "author": "Rafaela Quintiliano",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
